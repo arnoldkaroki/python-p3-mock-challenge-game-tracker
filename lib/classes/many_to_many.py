@@ -1,6 +1,6 @@
 class Game:
 
-    all = [
+    all = []
 
     def __init__(self, title):
         self._title = title
